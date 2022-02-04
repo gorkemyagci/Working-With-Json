@@ -1,0 +1,26 @@
+[
+{
+    "firstName" : "Görkem",
+    "lastName" : "Yağcı",
+    "age" : 16,
+    "hobies" : "Book, Software, Walking"
+},
+{
+    "firstName" : "Rıfat",
+    "lastName" : "Kaşıkçı",
+    "age" : 16,
+    "hobies" : "Book, Software, Walking"
+},
+{
+    "firstName" : "Hüseyin",
+    "lastName" : "Akdolay",
+    "age" : 16,
+    "hobies" : "Book, Software, Walking"
+},
+{
+    "firstName" : "Kaan",
+    "lastName" : "Yağcı",
+    "age" : 16,
+    "hobies" : "Book, Software, Walking"
+}
+]
